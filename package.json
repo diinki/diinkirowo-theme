@@ -7,6 +7,7 @@
 	"description": "DIINKI's super theme for vscode",
 	"categories": [ "Themes" ],
 	"icon": "images/diinkirowo_icon.png",
+	"repository": "https://github.com/diinki/diinkirowo-theme",
 	"contributes": {
 		"themes": [
 			{

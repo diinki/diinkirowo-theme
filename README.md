@@ -11,7 +11,7 @@ ___
 
 * Haxxor
 
-![Haxxor Image](/images/HAXXOR.png)
+![Haxxor Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/HAXXOR.png)
 
 >The Haxxor theme is a high-contrast extremely color-coded theme with a
 bloomy pink/red aesthetic.
@@ -21,7 +21,7 @@ ______
 
 * Black-hat
 
-![Black-Hat Image](/images/BLACK_HAT.png)
+![Black-Hat Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/BLACK_HAT.png)
 
 >Similar to the Haxxor theme, the black-hat theme is a high-contrast color theme
 but with more Aggresive colors; *n e o n*
@@ -31,7 +31,7 @@ ___
 
 * Caprisun
 
-![Caprisun Image](/images/CAPRISUN.png)
+![Caprisun Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/CAPRISUN.png)
 
 
 >The Caprisun theme features mid-high contrast **jungle** colors, these are what I
@@ -42,7 +42,7 @@ ___
 
 * Lava
 
-![Lava Image](/images/LAVA.png)
+![Lava Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/LAVA.png)
 
 >Similar to the Caprisun theme, the Lava theme features more orangey-red colors with
 a higher contrast.
@@ -52,7 +52,7 @@ ___
 
 <br>
 
-![Nightly Image](/images/NIGHTLY.png)
+![Nightly Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/NIGHTLY.png)
 
 >The Nightly theme is a pastel-colored theme with calm colors that are
 easy on the eye, in other words:  *m e l l o w*
@@ -62,7 +62,7 @@ ___
 
 <br>
 
-![Minty Image](/images/MINTY.png)
+![Minty Image](https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/MINTY.png)
 
 >Similar to Nightly, the Minty theme features more minty and purple-ish colors.
 ___
