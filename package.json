@@ -6,7 +6,7 @@
 	"displayName": "<diinkirowo>();",
 	"description": "DIINKI's super theme for vscode",
 	"categories": [ "Themes" ],
-	"icon": "images/icon.png",
+	"icon": "images/diinkirowo_icon.png",
 	"contributes": {
 		"themes": [
 			{
