@@ -1,0 +1,44 @@
+{
+	"name": "diinkirowo",
+	"version": "1.0.0",
+	"publisher": "diinki",
+	"engines": { "vscode": "^1.13.0" },
+	"displayName": "<diinkirowo>();",
+	"description": "DIINKI's super theme for vscode",
+	"categories": [ "Themes" ],
+	"icon": "images/icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Diinkirowo Haxxor",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Haxxor.json"
+			},
+			{
+				"label": "Diinkirowo Black-Hat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Black-Hat.json"
+			},
+			{
+				"label": "Diinkirowo Nightly",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Nightly.json"
+			},
+			{
+				"label": "Diinkirowo Minty",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Minty.json"
+			},
+			{
+				"label": "Diinkirowo Caprisun",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Caprisun.json"
+			},
+			{
+				"label": "Diinkirowo Lava",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Diinkirowo Lava.json"
+			}
+		]
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Dankarowo Editor Colors",
+	"colors": {
+		"workbench.background": "#0000",
+
+		"foreground": "#d8d2c7",
+		"editor.foreground": "#f3f3f3",
+		"editor.background": "#1d1d1d93",
+		"editor.findMatchBackground": "#1d1d1daa",
+		"editorGutter.commentRangeForeground": "#1d1d1d",
+		"editor.selectionBackground": "#ffffff44",
+		"editor.selectionHighlightBackground": "#ffffff19",
+
+		"tab.inactiveBackground": "#1d1d1d55",
+		"tab.inactiveModifiedBorder": "#1d1d1d55",
+
+		"editorGroup.border": "#1d1d1daa",
+		"editorGroup.dropBackground": "#000000aa",
+		"editorGroupHeader.noTabsBackground": "#1d1d1d00",
+		"editorGroupHeader.tabsBackground": "#1d1d1d00",
+
+		"editor.wordHighlightBackground":"#b700ff22",
+		"editor.wordHighlightStrongBackground":"#ff00ea44",
+
+		"panel.background": "#1d1d1daa",
+		
+		"editor.lineHighlightBorder": "#FFFFFF00",
+		"editor.lineHighlightBackground": "#FFFFFF08",
+		"statusBar.background": "#1d1d1daa",
+		"statusBar.foreground": "#999999aa",
+		"statusBar.noFolderBackground": "#222222aa",
+		"statusBar.debuggingBackground": "#585757cc",
+		"editorOverviewRuler.border": "#1d1d1d88",
+		"badge.background": "#ffffffdc",
+		"badge.foreground": "#1d1d1dff",
+		"list.inactiveSelectionBackground": "#1d1d1daa",
+		"list.activeSelectionBackground": "#1d1d1daa",
+		"list.focusBackground": "#1d1d1daa",
+		"list.hoverBackground": "#39393966",
+
+		"sideBar.background": "#1d1d1daa",
+		"sideBar.border": "#5c5c5c55",
+
+		"titleBar.activeBackground": "#1d1d1daa",
+		"titleBar.inactiveBackground": "#1d1d1daa",
+
+		"activityBar.background": "#1d1d1daa",
+		"activityBar.border": "#5c5c5c88",
+	}
+}
