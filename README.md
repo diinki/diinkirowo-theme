@@ -3,6 +3,8 @@
 The diinkirowo theme is a multi-theme theme extension, featuring High-contrast, Pastel, and
 well color-coded dark themes by [me](https://twitter.com/diinktheimp)
 
+### You can download them in Vscode by simple searching 'diinkirowo' on the extension tab.
+
 The theme features color-tokens for nearly all languages, so the theme should work well with everything from HTML to Rust to C#...
 ___
 ## Themes:
