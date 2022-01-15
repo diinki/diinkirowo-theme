@@ -1,7 +1,7 @@
 
 # diinkirowo
 The diinkirowo theme is a multi-theme theme extension, featuring High-contrast, Pastel, and
-well color-coded dark themes by [me](https://twitter.com/diinkiwiinki)
+well color-coded dark themes by [me](https://twitter.com/diinktheimp)
 
 The theme features color-tokens for nearly all languages, so the theme should work well with everything from HTML to Rust to C#...
 ___
